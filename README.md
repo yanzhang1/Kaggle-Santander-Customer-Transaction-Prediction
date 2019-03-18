@@ -2,7 +2,7 @@
 
 Here is my python scripts for the kaggle's predictive analysis project.
 
-1.'EDA.py' file is used to understand and check our dataset.
+1.'EDA.py' file is used to explore and check our dataset.
 
 2.'MODEL.py' file gives one way to fit training dataset and predict target values based on test dataset. It also includes the feature importance check.
 
